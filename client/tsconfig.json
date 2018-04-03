@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "out": "static/bundle.js",
+        "types": ["mithril-global"],
+        "lib": ["es2016", "dom"]
+    }
+}

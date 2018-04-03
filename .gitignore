@@ -1,0 +1,6 @@
+.env
+server/.pytest_cache/
+server/venv/
+client/node_modules/
+client/static/bundle.js
+__pycache__/
